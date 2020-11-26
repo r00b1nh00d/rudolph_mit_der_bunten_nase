@@ -4,7 +4,7 @@
 
 ## ~ @unplugged
 Um deinen eigenen Rudolph zu zeichnen kannst du gerne diese Skizze nutzen. <br>
-![Skizze](?=true)
+![Skizze](https://github.com/r00b1nh00d/rudolph_mit_der_bunten_nase/blob/master/RentierSkizze2.jpg?=true)
 
 
 ## Programmierung
