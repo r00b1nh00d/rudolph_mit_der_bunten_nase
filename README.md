@@ -1,10 +1,10 @@
 # Rudolph mit der bunten Nase
 ## ~avatar avatar @unplugged
-![Rudolph](https://github.com/r00b1nh00d/rudolph_mit_der_bunten_nase/blob/master/Rudolph2.gif?=true) <br>
+![Rudolph](https://github.com/r00b1nh00d/rudolph_mit_der_bunten_nase/blob/master/Rudolph2.gif?raw=true) <br>
 
 ## ~ @unplugged
 Um deinen eigenen Rudolph zu zeichnen kannst du gerne diese Skizze nutzen. <br>
-![Skizze](https://github.com/r00b1nh00d/rudolph_mit_der_bunten_nase/blob/master/RentierSkizze2.jpg?=true)
+![Skizze](https://github.com/r00b1nh00d/rudolph_mit_der_bunten_nase/blob/master/RentierSkizze2.jpg?raw=true)
 
 
 ## Programmierung
