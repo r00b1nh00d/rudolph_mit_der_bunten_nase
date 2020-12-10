@@ -9,7 +9,7 @@ Um deinen eigenen Rudolph zu zeichnen, kannst du gerne diese Skizze nutzen. <br>
 
 ## Programmierung
 Um Rudolph's Nase in verschiedenen Farben leuchten zu lassen, kannst du in eine ``||basic:dauerhaft||`` - Schleife einfach mehrere Blöcke zum ``||basic:setzen der RGB-LED||`` und mehrere ``||basic:Pausen||`` hineinsetzen. <br>
-Um später auch zufällige Farben anzeigen zu lassen, kannst du diese beispielsweise mit ``||math:Zufalls||``-Zahlen erstellen lassen. 
+Um später auch zufällige Farben anzeigen zu lassen, kannst du diese beispielsweise mit ``||maths:Zufalls||``-Zahlen erstellen lassen. 
 ```blocks
 
 basic.forever(function () {
